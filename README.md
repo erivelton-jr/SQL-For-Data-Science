@@ -8,7 +8,7 @@
 * #### Sobre este repositorio
     Repositório criado para armazenar exercicios praticos do curso "SQL For Data Science" da IBM juntamente com  a edX.
 
-* ## [Modulo 1 - Getting Started with SQL]()
+* ## [Modulo 1 - Getting Started with SQL](https://github.com/erivelton-jr/SQL-For-Data-Science/tree/main/Modulo%201%20-%20Getting%20Started%20with%20SQL)
 
 * usar instruções DML (Data Manipulation Language) para ler e modificar dados.
 * A condição de pesquisa da cláusula WHERE usa um predicado para refinar a pesquisa.​
