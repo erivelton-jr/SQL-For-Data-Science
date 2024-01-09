@@ -20,7 +20,7 @@
 * COUNT, DISTINCT e LIMIT​ são expressões usadas com instruções SELECT​.
 * INSERT, UPDATE e DELETE são instruções DML para preencher e alterar tabelas.
 
-* ## [Modulo 2 - Introdução aos bancos de dados e tabelas relacionais]()
+* ## [Modulo 2 - Introdução aos bancos de dados e tabelas relacionais](https://github.com/erivelton-jr/SQL-For-Data-Science/tree/main/M%C3%B3dulo%202%20-%20Introduction%20to%20Relational%20Databases%20and%20Tables)
 
 * Um banco de dados é um repositório de dados que fornece funcionalidade para adicionar, modificar e consultar os dados.
 * SQL é uma linguagem usada para consultar ou recuperar dados de um banco de dados relacional.
