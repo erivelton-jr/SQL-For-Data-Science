@@ -28,7 +28,7 @@
 * A chave primária de uma tabela relacional identifica exclusivamente cada tupla ou linha, evitando a duplicação de dados e fornecendo uma forma de definir relacionamentos entre tabelas.
 * As instruções SQL se enquadram em duas categorias diferentes: instruções de linguagem de definição de dados (DDL) e instruções de linguagem de manipulação de dados (DML).
 
-* ## [Modulo 3 - SQL Intermediario]()
+* ## [Modulo 3 - SQL Intermediario](https://github.com/erivelton-jr/SQL-For-Data-Science/tree/main/Modulo%203%20-%20Intermediate%20SQL)
 
 * Você pode usar a cláusula WHERE para refinar os resultados da consulta.
 * Você pode usar o caractere curinga (%) como substituto de caracteres desconhecidos em um padrão.
