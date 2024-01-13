@@ -28,7 +28,7 @@
 * A chave primária de uma tabela relacional identifica exclusivamente cada tupla ou linha, evitando a duplicação de dados e fornecendo uma forma de definir relacionamentos entre tabelas.
 * As instruções SQL se enquadram em duas categorias diferentes: instruções de linguagem de definição de dados (DDL) e instruções de linguagem de manipulação de dados (DML).
 
-* ## [Modulo 3 - SQL Intermediario]()
+* ## [Modulo 3 - SQL Intermediario](https://github.com/erivelton-jr/SQL-For-Data-Science/tree/main/Modulo%203%20-%20Intermediate%20SQL)
 
 * Você pode usar a cláusula WHERE para refinar os resultados da consulta.
 * Você pode usar o caractere curinga (%) como substituto de caracteres desconhecidos em um padrão.
@@ -41,3 +41,25 @@
 * Você pode usar uma expressão de subseleção para avaliar algumas funções agregadas integradas, como a função média.
 * Tabelas derivadas ou expressões de tabela são subconsultas em que a consulta externa usa os resultados da subconsulta como fonte de dados.
 ​
+* ## [Modulo 4 - Acessando bancos de dados usando Python]()
+
+* Você pode acessar um banco de dados a partir de uma linguagem como Python usando a API apropriada. Os exemplos incluem API ibm_db para IBM DB2, psycopg2 para ProstgreSQL e API dblib para SQL Server.
+
+* DB_API é a API padrão do Python para acessar bancos de dados relacionais. Ele permite que você escreva um único programa que funcione com vários tipos de bancos de dados relacionais, em vez de escrever um programa separado para cada um.
+
+* O construtor de conexão DB_API cria uma conexão com o banco de dados e retorna um Objeto de Conexão, que é então usado pelos vários métodos de conexão.
+
+* Os métodos de conexão são: O método:
+
+| |  |
+|---|---|
+|cursor()|retorna um novo objeto cursor usando a conexão.
+|commit()|usado para confirmar qualquer transação pendente no banco de dados.
+|rollback()|faz com que o banco de dados seja revertido para o início de qualquer transação pendente.
+|close()|é usado para fechar uma conexão com o banco de dados.
+|cursor()|retorna um novo objeto cursor usando a conexão.
+|commit()|usado para confirmar qualquer transação pendente no banco de dados.
+|rollback()|faz com que o banco de dados seja revertido para o início de qualquer transação pendente.
+|close()|é usado para fechar uma conexão com o banco de dados.
+
+* Você pode usar comandos **SQL Magic** para executar consultas com mais facilidade em Jupyter Notebooks. Os comandos mágicos têm o formato geral **%sql select * from tablename**. as *Cells Magic* começa com um sinal duplo de %% (por cento) e se aplica a toda a célula. A *line Magic* começa com um único sinal de% (por cento) e se aplica a uma linha específica em uma célula.
