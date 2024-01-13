@@ -49,7 +49,7 @@
 
 * O construtor de conexão DB_API cria uma conexão com o banco de dados e retorna um Objeto de Conexão, que é então usado pelos vários métodos de conexão.
 
-* Os métodos de conexão são: O método:
+* Os métodos de conexão são:
 
 | |  |
 |---|---|
@@ -62,4 +62,4 @@
 |rollback()|faz com que o banco de dados seja revertido para o início de qualquer transação pendente.
 |close()|é usado para fechar uma conexão com o banco de dados.
 
-* Você pode usar comandos **SQL Magic** para executar consultas com mais facilidade em Jupyter Notebooks. Os comandos mágicos têm o formato geral **%sql select * from tablename**. as *Cells Magic* começa com um sinal duplo de %% (por cento) e se aplica a toda a célula. A *line Magic* começa com um único sinal de% (por cento) e se aplica a uma linha específica em uma célula.
+* Você pode usar comandos **SQL Magic** para executar consultas com mais facilidade em Jupyter Notebooks. Os comandos mágicos têm o formato geral **%sql select * from tablename**. as *Cells Magic* começa com um sinal duplo de %% (por cento) e se aplica a toda a célula. A *line Magic* começa com um único sinal de % (por cento) e se aplica a uma linha específica em uma célula.
