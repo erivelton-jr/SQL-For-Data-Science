@@ -11,6 +11,8 @@
  #### Ferramentas utilizadas 🛢️
 * MySQL 🐬
 * phpMyAdmin ⛵
+* Jupyter Notebook 🐍💻
+* Python 🐍
 ---
 
 * ## [Modulo 1 - Introdução ao SQL](https://github.com/erivelton-jr/SQL-For-Data-Science/tree/main/Modulo%201%20-%20Getting%20Started%20with%20SQL)
@@ -41,7 +43,7 @@
 * Você pode usar uma expressão de subseleção para avaliar algumas funções agregadas integradas, como a função média.
 * Tabelas derivadas ou expressões de tabela são subconsultas em que a consulta externa usa os resultados da subconsulta como fonte de dados.
 ​
-* ## [Modulo 4 - Acessando bancos de dados usando Python]()
+* ## [Modulo 4 - Acessando bancos de dados usando Python](https://github.com/erivelton-jr/SQL-For-Data-Science/tree/main/Modulo%204%20-%20Accessing%20Databases%20using%20Python)
 
 * Você pode acessar um banco de dados a partir de uma linguagem como Python usando a API apropriada. Os exemplos incluem API ibm_db para IBM DB2, psycopg2 para ProstgreSQL e API dblib para SQL Server.
 
